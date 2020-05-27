@@ -5,3 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(001 "L1-001. Hello World.cpp")
 add_executable(002 "L1-002. 打印沙漏 .cpp")
+add_executable(003 "L1-003. 个位数统计 .cpp")
+add_executable(004 "L1-004. 计算摄氏温度 .cpp")
