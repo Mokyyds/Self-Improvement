@@ -1,3 +1,5 @@
+package com.peachou.kotlin
+
 fun main() {
     runBlock {
         List(1000) {
